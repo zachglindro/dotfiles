@@ -28,3 +28,4 @@ esac
 # pnpm end
 
 eval $(thefuck --alias)
+
